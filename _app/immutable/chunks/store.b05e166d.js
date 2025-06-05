@@ -1,1 +1,0 @@
-import{w as s}from"./paths.9b27c426.js";const o=s({open:!1,title:"Wystąpił błąd",message:"",button:"OK",action:"close"}),l=s("initial"),e=s("all"),i=s(1),n=s(null),p=s("play"),c=s("realizacje"),r=s([]),m=s(null),t="https://app-strapi.onrender.com",f=t+"/api/portfolios?populate=*";export{c as a,e as b,m as c,f as d,i as e,r as i,o as m,n as p,t as s,p as t,l as v};
